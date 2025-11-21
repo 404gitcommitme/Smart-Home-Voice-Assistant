@@ -1,0 +1,200 @@
+Command,Action,Device,Index
+switch off the basement security camera,turn_off,security camera,basement
+can you turn on the thermostat?,turn_on,thermostat,none
+I want to power up the eleventh fan,turn_on,fan,11
+I want to end the fourth and fifteenth fan,turn_off,fan,"4,15"
+deactivate the attic air conditioner,turn_off,air conditioner,attic
+please start the thermostat in back,turn_on,thermostat,back
+power off the twelfth thermostat,turn_off,thermostat,12
+switch on every air conditioner,turn_on,air conditioner,all
+power on the air conditioner number one and twelve,turn_on,air conditioner,"1,12"
+power off light eighteen,turn_off,light,18
+I need to power on every heater,turn_on,heater,all
+I want to turn on the security camera,turn_on,security camera,none
+please begin the security camera in basement,turn_on,security camera,basement
+please open the window,open,window,none
+stop the heater,turn_off,heater,none
+break light,unknown,light,none
+enable the basement light,turn_on,light,basement
+lock every door,lock,door,all
+power on the thermostat number five,turn_on,thermostat,5
+please turn on thermostats number one and twelve,turn_on,thermostat,"1,12"
+I want to enable the thirteenth and nineteenth light,turn_on,light,"13,19"
+begin the security camera,turn_on,security camera,none
+I want to switch on the second TV in the kitchen,turn_on,TV,"2,kitchen"
+turn on the TV number ten and seventeen,turn_on,TV,"10,17"
+please power off the fan,turn_off,fan,none
+begin thermostat two,turn_on,thermostat,2
+power on heater,turn_on,heater,none
+power off the sixth and nineteenth security camera,turn_off,security camera,"6,19"
+I want to turn on the bedroom TV,turn_on,TV,bedroom
+I need to shut down every TV,turn_off,TV,all
+please turn on heaters number ten and nineteen,turn_on,heater,"10,19"
+disable the thermostat number eleven and fourteen,turn_off,thermostat,"11,14"
+turn off the heater,turn_off,heater,none
+turn on the seventh TV in the front,turn_on,TV,"7,front"
+kill the basement heater,turn_off,heater,basement
+switch on bathroom thermostat,turn_on,thermostat,bathroom
+start the heater number twenty,turn_on,heater,20
+I want to enable the front fan,turn_on,fan,front
+please turn off fans number one and thirteen,turn_off,fan,"1,13"
+turn on the thermostat number seven,turn_on,thermostat,7
+power off all TVs,turn_off,TV,all
+please lock the door,lock,door,none
+please deactivate the TV in basement,turn_off,TV,basement
+please turn on heaters number eight and ten,turn_on,heater,"8,10"
+please lock the door,lock,door,none
+turn off all TVs,turn_off,TV,all
+shut the door,close,door,none
+switch off all fans,turn_off,fan,all
+open the ninth and nineteenth window,open,window,"9,19"
+stop the TV number seventeen in the kitchen,turn_off,TV,"17,kitchen"
+please shut door number ten,close,door,10
+I need to shut every door,close,door,all
+please lock door number nine in living room,lock,door,"9,living room"
+turn on thermostat seven,turn_on,thermostat,7
+I want to end the nineteenth light,turn_off,light,19
+disable the seventh fan in the bedroom,turn_off,fan,"7,bedroom"
+I want to switch off the basement fan,turn_off,fan,basement
+turn on the kitchen TV,turn_on,TV,kitchen
+power down the thermostat number eighteen,turn_off,thermostat,18
+power down the light number six and nine,turn_off,light,"6,9"
+can you enable the thermostat?,turn_on,thermostat,none
+deactivate the twentieth heater,turn_off,heater,20
+switch on the garage heater,turn_on,heater,garage
+disable the air conditioner number fifteen in the bedroom,turn_off,air conditioner,"15,bedroom"
+turn off the heater number five in the back,turn_off,heater,"5,back"
+open the ninth window in the back,open,window,"9,back"
+I want to switch on the ninth air conditioner,turn_on,air conditioner,9
+power on the security camera number five,turn_on,security camera,5
+I want to power off the eleventh and sixteenth fan,turn_off,fan,"11,16"
+power on the attic thermostat,turn_on,thermostat,attic
+replace air conditioner,unknown,air conditioner,none
+please unlatch window number thirteen in garage,open,window,"13,garage"
+please switch off fan number six,turn_off,fan,6
+power down every fan,turn_off,fan,all
+please secure the door,lock,door,none
+start the heater number fourteen,turn_on,heater,14
+I want to switch off the living room fan,turn_off,fan,living room
+power on the fifth and nineteenth TV,turn_on,TV,"5,19"
+power down the air conditioner,turn_off,air conditioner,none
+power up the seventh light in the living room,turn_on,light,"7,living room"
+turn on the security camera number fourteen in the basement,turn_on,security camera,"14,basement"
+enable the attic thermostat,turn_on,thermostat,attic
+power off bedroom TV,turn_off,TV,bedroom
+can you enable the fan?,turn_on,fan,none
+I want to switch on the thermostat,turn_on,thermostat,none
+I need to open every window,open,window,all
+switch on the nineteenth TV in the kitchen,turn_on,TV,"19,kitchen"
+power up the garage security camera,turn_on,security camera,garage
+please turn off the light,turn_off,light,none
+unlock basement door,unlock,door,basement
+please power on the security camera,turn_on,security camera,none
+please turn off all the heaters,turn_off,heater,all
+start heater two,turn_on,heater,2
+open bathroom window,open,window,bathroom
+please turn off the fan in attic,turn_off,fan,attic
+I want to open the fourth and sixteenth window,open,window,"4,16"
+open the door number ten in the front,open,door,"10,front"
+start air conditioner,turn_on,air conditioner,none
+open the door number nineteen,open,door,19
+I want to enable the security camera,turn_on,security camera,none
+please end the thermostat,turn_off,thermostat,none
+can you stop the heater?,turn_off,heater,none
+please turn on the fan,turn_on,fan,none
+I want to stop the first and eighth heater,turn_off,heater,"1,8"
+turn off the twelfth and sixteenth air conditioner,turn_off,air conditioner,"12,16"
+shut the window,close,window,none
+I want to turn on the heater,turn_on,heater,none
+I need to switch off every TV,turn_off,TV,all
+I need to power off every security camera,turn_off,security camera,all
+turn off attic heater,turn_off,heater,attic
+please start light number three,turn_on,light,3
+please turn on the air conditioner in living room,turn_on,air conditioner,living room
+turn off all thermostats,turn_off,thermostat,all
+please switch on all the lights,turn_on,light,all
+I want to activate the nineteenth and twentieth door,open,door,"19,20"
+can you power off the heater?,turn_off,heater,none
+I want to power on the TV,turn_on,TV,none
+I want to switch on the twelfth and fourteenth air conditioner,turn_on,air conditioner,"12,14"
+turn off the thermostat number eight and sixteen,turn_off,thermostat,"8,16"
+I want to bolt the living room door,lock,door,living room
+can you switch off the TV?,turn_off,TV,none
+please enable the thermostat in front,turn_on,thermostat,front
+kill fan,turn_off,fan,none
+close window four,close,window,4
+unbolt living room door,unlock,door,living room
+I want to power off the first TV in the back,turn_off,TV,"1,back"
+power on air conditioner,turn_on,air conditioner,none
+turn on the fan number twelve and eighteen,turn_on,fan,"12,18"
+I want to turn on the back security camera,turn_on,security camera,back
+shut the window number eight and thirteen,close,window,"8,13"
+open every window,open,window,all
+I want to power up the living room security camera,turn_on,security camera,living room
+please switch off the light,turn_off,light,none
+please latch window number eighteen in bedroom,close,window,"18,bedroom"
+switch on the bathroom air conditioner,turn_on,air conditioner,bathroom
+I need to close every door,close,door,all
+I want to power down the eighth heater,turn_off,heater,8
+I want to power off the sixth and eleventh security camera,turn_off,security camera,"6,11"
+can you bolt the door?,lock,door,none
+please unlatch doors number four and fourteen,open,door,"4,14"
+turn on all air conditioners,turn_on,air conditioner,all
+please start thermostat number two in bedroom,turn_on,thermostat,"2,bedroom"
+start the fourth TV,turn_on,TV,4
+switch off the heater number fourteen and nineteen,turn_off,heater,"14,19"
+I need to begin every heater,turn_on,heater,all
+unlatch the window,open,window,none
+can you close the window?,close,window,none
+lock door seventeen,lock,door,17
+start security camera,turn_on,security camera,none
+I want to power off the second and third air conditioner,turn_off,air conditioner,"2,3"
+please kill the security camera,turn_off,security camera,none
+please start the light in bedroom,turn_on,light,bedroom
+shut the window,close,window,none
+switch off the light number sixteen in the kitchen,turn_off,light,"16,kitchen"
+please unlock door number four,unlock,door,4
+I want to close the living room window,close,window,living room
+switch on fan two,turn_on,fan,2
+start back air conditioner,turn_on,air conditioner,back
+lock the door,lock,door,none
+stop all thermostats,turn_off,thermostat,all
+activate the seventh air conditioner in the basement,turn_on,air conditioner,"7,basement"
+please release doors number four and ten,unlock,door,"4,10"
+I want to deactivate the second and tenth security camera,turn_off,security camera,"2,10"
+can you turn off the TV?,turn_off,TV,none
+use the third light,unknown,light,3
+turn off the TV number eleven in the back,turn_off,TV,"11,back"
+turn off the attic light,turn_off,light,attic
+power off the light number nineteen in the bedroom,turn_off,light,"19,bedroom"
+turn on the fan number three in the attic,turn_on,fan,"3,attic"
+activate the fifth and eighteenth heater,turn_on,heater,"5,18"
+unlock the door number twelve in the bathroom,unlock,door,"12,bathroom"
+please deactivate all the fans,turn_off,fan,all
+please power up all the lights,turn_on,light,all
+turn on the air conditioner number three and thirteen,turn_on,air conditioner,"3,13"
+power on the light number eight and seventeen,turn_on,light,"8,17"
+end attic security camera,turn_off,security camera,attic
+I want to stop the ninth air conditioner in the kitchen,turn_off,air conditioner,"9,kitchen"
+I need to open every window,open,window,all
+please power on air conditioner number six,turn_on,air conditioner,6
+please shut the window,close,window,none
+I want to unlock the sixth door in the back,unlock,door,"6,back"
+turn off every air conditioner,turn_off,air conditioner,all
+please turn on security camera number nine in garage,turn_on,security camera,"9,garage"
+I want to turn off the nineteenth TV,turn_off,TV,19
+please unbolt doors number four and five,unlock,door,"4,5"
+power off front security camera,turn_off,security camera,front
+I want to power on the basement heater,turn_on,heater,basement
+enable the light number one in the living room,turn_on,light,"1,living room"
+I want to deactivate the third fan in the back,turn_off,fan,"3,back"
+activate the eighth and fifteenth door,open,door,"8,15"
+start the heater number fourteen,turn_on,heater,14
+please open window number fifteen in bathroom,open,window,"15,bathroom"
+I need to shut every door,close,door,all
+disable the light number eleven,turn_off,light,11
+turn on the front light,turn_on,light,front
+shut the door,close,door,none
+please deactivate heater number two in attic,turn_off,heater,"2,attic"
+activate kitchen light,turn_on,light,kitchen
+I need to switch on every security camera,turn_on,security camera,all
