@@ -52,7 +52,7 @@ understand_command("turn off all lights in the kitchen")
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yourusername/Smart-Home-Voice-Assistant.git
+git clone https://github.com/404gitcommitme/Smart-Home-Voice-Assistant.git
 cd Smart-Home-Voice-Assistant
 pip install -r requirements.txt
 python smart_home_assistant.py
